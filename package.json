@@ -1,0 +1,19 @@
+{
+  "name": "marker-precluster",
+  "version": "1.0.0",
+  "description": "Port of the Google Maps util MarkerClusterer to run in Node",
+  "keywords": [
+    "map",
+    "markerclusterer"
+  ],
+  "main": "./lib",
+  "scripts": {
+  },
+  "homepage": "https://github.com/HallM/marker-precluster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HallM/marker-precluster.git"
+  },
+  "author": "Matthew Hall <mdhall@gmail.com>",
+  "license": "Apache-2.0"
+}
